@@ -1,0 +1,13 @@
+{
+  "name": "townsquare-icons",
+  "version": "1.0.0",
+  "description": "Icons for Townsquare",
+  "main": "index.js",
+  "repository": "https://github.com/Gypson/townsquare-icons.git",
+  "author": "Tyler Nixon <nixon.tyler@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1"
+  }
+}
