@@ -1,0 +1,7 @@
+# Cache
+.npm/
+.vscode/
+.yarnclean
+
+# Directories
+node_modules/
